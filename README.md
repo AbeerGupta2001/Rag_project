@@ -24,7 +24,15 @@ Features
 - One-command startup with Docker Compose
 
 
+
 ## Docker command
 ```
 docker compose up --build
+```
+
+
+
+## Pull from docker hub
+```
+docker pull noobastro/rag_project
 ```
