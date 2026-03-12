@@ -1,0 +1,10 @@
+langchain
+langchain-community
+streamlit
+langchain-ollama
+langchain-qdrant
+qdrant-client[fastembed]
+pypdf
+langchain-text-splitters
+python-dotenv
+langchain-mistralai
